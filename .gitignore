@@ -1,0 +1,23 @@
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+*.VC.db
+*.opendb
+
+# Ignore build output
+Debug/
+Release/
+x64/
+*.exe
+*.obj
+*.pdb
+*.idb
+
+# Ignore CMake or cache
+CMakeFiles/
+CMakeCache.txt
+
+# Ignore log or temp files
+*.log
+*.tmp
